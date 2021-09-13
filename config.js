@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'THÙY à!',
+    introTitle: 'TRÂM à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -7,13 +7,13 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Tại anh đáng iu quáa <33',
-    btnNo: 'Anh bị làm sao ýyyyy :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnYes: 'Tại ông đáng iu quáa <33',
+    btnNo: 'Ông bị làm sao ýyyyy :3',
+    question:'Trung thu này Trâm muốn có quà gì nè <3',
     btnReply: 'Gửi cho anh <3',
-    reply:'Yêu thì yêu mà không yêu thì cũng phải yêu nhennnn <3',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Nhắn tin cho anh nhá cô bé đáng iuuuu.',
+    reply:'Không cần gì đâu chỉ cần có ông thoi <3',
+    mess: 'Ỏooo cute z. Người gì đâu mà dễ thương thế ko biết 😘😘',
+    messDesc: 'Nhắn tin cho tui nhá cô bé đáng iuuuu.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100014013221888' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.instagram.com/direct/t/340282366841710300949128169979443462740' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
