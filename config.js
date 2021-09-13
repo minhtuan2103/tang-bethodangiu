@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Tại ông đáng iu quáa <33',
     btnNo: 'Ông bị làm sao ýyyyy :3',
     question:'Trung thu này Trâm muốn có quà gì nè <3',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho tui nè <3',
     reply:'Không cần gì đâu chỉ cần có ông thoi <3',
     mess: 'Ỏooo cute z. Người gì đâu mà dễ thương thế ko biết 😘😘',
     messDesc: 'Nhắn tin cho tui nhá cô bé đáng iuuuu.',
